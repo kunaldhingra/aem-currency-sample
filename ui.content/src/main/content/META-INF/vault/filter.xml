@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/com.currency.core" mode="merge"/>
+    <filter root="/content/com.currency.core" mode="merge"/>
+    <filter root="/content/dam/com.currency.core/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/com.currency.core" mode="merge"/>
+</workspaceFilter>

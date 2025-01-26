@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured">
+    <EUR
+        jcr:primaryType="nt:unstructured"
+        conversionFactor="{Double}1.15"
+        name="Euro"/>
+    <GBP
+        jcr:primaryType="nt:unstructured"
+        conversionFactor="{Long}1"
+        name="British Pound"/>
+    <USD
+        jcr:primaryType="nt:unstructured"
+        conversionFactor="{Double}1.25"
+        name="United States Dollar"/>
+    <INR
+        jcr:primaryType="nt:unstructured"
+        conversionFactor="{Double}107.62"
+        name="Indian Rupees"/>
+</jcr:root>
